@@ -67,12 +67,12 @@ To run the application you'll need:
 - [Hardhat](https://hardhat.org/)
 
 * Clone the repository:
-  - `$ git clone git@github.com:bertux/valentine-day.git`
+  - `$ git clone git@github.com:jonrin0213/valentine.git`
 
 Now go to project folder and run:
 
 ```bash
-$ cd valentine-day
+$ cd valentine
 
 # install the dependencies
 $ npm install
